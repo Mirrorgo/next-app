@@ -1,3 +1,26 @@
+❌github的github page 添加一个重定向的效果
+
+mirrorgo.vercel.app
+
+https://nextjs.org/learn/basics/assets-metadata-css/layout-component
+
+https://bobbyhadz.com/blog/react-property-children-does-not-exist-on-type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
